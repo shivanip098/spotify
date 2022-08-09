@@ -1,0 +1,901 @@
+﻿No.,TITLE,ARTIST
+1,Call Me,Blondie
+2,Another Brick in the Wall Part II,Pink Floyd
+3,Magic,Olivia Newton-John
+4,Rock with You,Michael Jackson
+5,Do That to Me One More Time,Captain & Tennille
+6,Crazy Little Thing Called Love,Queen
+7,Coming Up,Paul McCartney
+8,Funkytown,Lipps Inc
+9,It's Still Rock and Roll to Me,Billy Joel
+10,The Rose,Bette Midler
+11,Escape (The Piña Colada Song),Rupert Holmes
+12,Cars,Gary Numan
+13,Cruisin,Smokey Robinson
+14,Working My Way Back to You/Forgive Me Girl,The Spinners
+15,Lost in Love,Air Supply
+16,Little Jeannie,Elton John
+17,Ride Like the Wind,Christopher Cross
+18,Upside Down,Diana Ross
+19,Please Don't Go,KC and the Sunshine Band
+20,Babe,Styx
+21,With You I'm Born Again,Billy Preston and Syreeta
+22,Shining Star,The Manhattans
+23,Still,Commodores
+24,Yes I'm Ready,Teri DeSario & KC
+25,Sexy Eyes,Dr. Hook
+26,Steal Away,Robbie Dupree
+27,Biggest Part of Me,Ambrosia
+28,This Is It,Kenny Loggins
+29,Cupid/I've Loved You for a Long Time,The Spinners
+30,Let's Get Serious,Jermaine Jackson
+31,Don't Fall in Love with a Dreamer,Kenny Rogers & Kim Carnes
+32,Sailing,Christopher Cross
+33,Longer,Dan Fogelberg
+34,Coward of the County,Kenny Rogers
+35,Ladies' Night,Kool & the Gang
+36,Too Hot,Kool & the Gang
+37,Take Your Time (Do It Right),The S.O.S. Band
+38,No More Tears (Enough Is Enough),Barbra Streisand & Donna Summer
+39,More Love,Kim Carnes
+40,Pop Muzik,M
+41,Brass in Pocket,The Pretenders
+42,Special Lady,Ray Goodman & Brown
+43,Send One Your Love,Stevie Wonder
+44,The Second Time Around,Shalamar
+45,We Don't Talk Anymore,Cliff Richard
+46,Stomp!,The Brothers Johnson
+47,Heartache Tonight,Eagles
+48,Tired of Toein' the Line,Rocky Burnette
+49,Better Love Next Time,Dr. Hook
+50,Him,Rupert Holmes
+51,Against the Wind,Bob Seger and the Silver Bullet Band
+52,On the Radio,Donna Summer
+53,Emotional Rescue,The Rolling Stones
+54,Rise,Herb Alpert
+55,All Out of Love,Air Supply
+56,Cool Change,Little River Band
+57,You're Only Lonely,J.D. Souther
+58,Desire,Andy Gibb
+59,Let My Love Open the Door,Pete Townshend
+60,Romeo's Tune,Steve Forbert
+61,Daydream Believer,Anne Murray
+62,I Can't Tell You Why,Eagles
+63,Don't Let Go,Isaac Hayes
+64,Don't Do Me Like That,Tom Petty and the Heartbreakers
+65,She's Out of My Life,Michael Jackson
+66,Fame,Irene Cara
+67,Fire Lake,Bob Seger and the Silver Bullet Band
+68,How Do I Make You,Linda Ronstadt
+69,Into the Night,Benny Mardones
+70,Let Me Love You Tonight,Pure Prairie League
+71,Misunderstanding,Genesis
+72,An American Dream,The Dirt Band
+73,One Fine Day,Carole King
+74,Dim All the Lights,Donna Summer
+75,You May Be Right,Billy Joel
+76,Should've Never Let You Go,Neil & Dara Sedaka
+77,Pilot of the Airwaves,Charlie Dore
+78,Hurt So Bad,Linda Ronstadt
+79,Off the Wall,Michael Jackson
+80,I Pledge My Love,Peaches & Herb
+81,The Long Run,Eagles
+82,Stand by Me,Mickey Gilley
+83,Heartbreaker,Pat Benatar
+84,Déjà Vu,Dionne Warwick
+85,Drivin' My Life Away,Eddie Rabbitt
+86,Take the Long Way Home,Supertramp
+87,Sara,Fleetwood Mac
+88,Wait for Me,Hall & Oates
+89,Jojo,Boz Scaggs
+90,September Morn,Neil Diamond
+91,Give Me the Night,George Benson
+92,Broken Hearted Me,Anne Murray
+93,You Decorated My Life,Kenny Rogers
+94,Tusk,Fleetwood Mac
+95,I Wanna Be Your Lover,Prince
+96,In America,Charlie Daniels Band
+97,Breakdown Dead Ahead,Boz Scaggs
+98,Ships,Barry Manilow
+99,All Night Long,Joe Walsh
+100,Refugee,Tom Petty and the Heartbreakers
+1,Careless Whisper,Wham!
+2,Like a Virgin,Madonna
+3,Wake Me Up Before You Go-Go,Wham!
+4,I Want to Know What Love Is,Foreigner
+5,I Feel for You,Chaka Khan
+6,Out of Touch,Daryl Hall & John Oates
+7,Everybody Wants to Rule the World,Tears for Fears
+8,Money for Nothing,Dire Straits
+9,Crazy for You,Madonna
+10,Take On Me,a-ha
+11,Everytime You Go Away,Paul Young
+12,Easy Lover,Philip Bailey and Phil Collins
+13,Can't Fight This Feeling,REO Speedwagon
+14,We Built This City,Starship
+15,The Power of Love,Huey Lewis and the News
+16,Don't You (Forget About Me),Simple Minds
+17,Cherish,Kool & the Gang
+18,St. Elmo's Fire (Man in Motion),John Parr
+19,The Heat Is On,Glenn Frey
+20,We Are the World,USA for Africa
+21,Shout,Tears for Fears
+22,Part-Time Lover,Stevie Wonder
+23,Saving All My Love for You,Whitney Houston
+24,Heaven,Bryan Adams
+25,Everything She Wants,Wham!
+26,Cool It Now,New Edition
+27,Miami Vice Theme,Jan Hammer
+28,Loverboy,Billy Ocean
+29,Lovergirl,Teena Marie
+30,You Belong to the City,Glenn Frey
+31,Oh Sheila,Ready for the World
+32,Rhythm of the Night,DeBarge
+33,One More Night,Phil Collins
+34,Sea of Love,The Honeydrippers
+35,A View to a Kill,Duran Duran
+36,The Wild Boys,Duran Duran
+37,You're the Inspiration,Chicago
+38,Neutron Dance,The Pointer Sisters
+39,We Belong,Pat Benatar
+40,Nightshift,Commodores
+41,Things Can Only Get Better,Howard Jones
+42,All I Need,Jack Wagner
+43,Freeway of Love,Aretha Franklin
+44,Never Surrender,Corey Hart
+45,Sussudio,Phil Collins
+46,Strut,Sheena Easton
+47,You Give Good Love,Whitney Houston
+48,The Search Is Over,Survivor
+49,Missing You,Diana Ross
+50,Separate Lives,Phil Collins and Marilyn Martin
+51,Raspberry Beret,Prince & the Revolution
+52,Suddenly,Billy Ocean
+53,The Boys of Summer,Don Henley
+54,One Night in Bangkok,Murray Head
+55,If You Love Somebody Set Them Free,Sting
+56,Obsession,Animotion
+57,We Don't Need Another Hero (Thunderdome),Tina Turner
+58,Material Girl,Madonna
+59,Better Be Good to Me,Tina Turner
+60,Head over Heels,Tears for Fears
+61,Axel F,Harold Faltermeyer
+62,Smooth Operator,Sade
+63,In My House,Mary Jane Girls
+64,Don't Lose My Number,Phil Collins
+65,All Through the Night,Cyndi Lauper
+66,Run to You,Bryan Adams
+67,Glory Days,Bruce Springsteen
+68,Voices Carry,'Til Tuesday
+69,Misled,Kool & the Gang
+70,Would I Lie to You?,Eurythmics
+71,Be Near Me,ABC
+72,No More Lonely Nights,Paul McCartney
+73,I Can't Hold Back,Survivor
+74,Summer of '69,Bryan Adams
+75,Walking on Sunshine,Katrina and the Waves
+76,Freedom,Wham!
+77,Too Late for Goodbyes,Julian Lennon
+78,Valotte,Julian Lennon
+79,Some Like It Hot,The Power Station
+80,Solid,Ashford & Simpson
+81,Angel,Madonna
+82,I'm on Fire,Bruce Springsteen
+83,Method of Modern Love,Daryl Hall & John Oates
+84,Lay Your Hands on Me,Thompson Twins
+85,Who's Holding Donna Now,DeBarge
+86,Lonely Ol' Night,John Cougar Mellencamp
+87,What About Love,Heart
+88,California Girls,David Lee Roth
+89,Fresh,Kool & the Gang
+90,Do What You Do,Jermaine Jackson
+91,Jungle Love,The Time
+92,Born in the U.S.A.,Bruce Springsteen
+93,Private Dancer,Tina Turner
+94,Who's Zoomin' Who?,Aretha Franklin
+95,Fortress Around Your Heart,Sting
+96,Penny Lover,Lionel Richie
+97,All She Wants to Do Is Dance,Don Henley
+98,Dress You Up,Madonna
+99,Sentimental Street,Night Ranger
+100,Sugar Walls,Sheena Easton
+1,Hold On,Wilson Phillips
+2,It Must Have Been Love,Roxette
+3,Nothing Compares 2 U,Sinéad O'Connor
+4,Poison,Bell Biv DeVoe
+5,Vogue,Madonna
+6,Vision of Love,Mariah Carey
+7,Another Day in Paradise,Phil Collins
+8,Hold On,En Vogue
+9,Cradle of Love,Billy Idol
+10,Blaze of Glory,Jon Bon Jovi
+11,Do Me!,Bell Biv DeVoe
+12,How Am I Supposed to Live Without You,Michael Bolton
+13,Pump Up the Jam,Technotronic
+14,Opposites Attract,Paula Abdul
+15,Escapade,Janet Jackson
+16,All I Wanna Do Is Make Love to You,Heart
+17,Close to You,Maxi Priest
+18,Black Velvet,Alannah Myles
+19,Release Me,Wilson Phillips
+20,Don't Know Much,Linda Ronstadt featuring Aaron Neville
+21,All Around the World,Lisa Stansfield
+22,I Wanna Be Rich,Calloway
+23,Rub You the Right Way,Johnny Gill
+24,She Ain't Worth It,Glenn Medeiros featuring Bobby Brown
+25,If Wishes Came True,Sweet Sensation
+26,The Power,Snap!
+27,(Can't Live Without Your) Love and Affection,Nelson
+28,Love Will Lead You Back,Taylor Dayne
+29,Don't Wanna Fall in Love,Jane Child
+30,Two to Make It Right,Seduction
+31,Sending All My Love,Linear
+32,Unskinny Bop,Poison
+33,Step by Step,New Kids on the Block
+34,Dangerous,Roxette
+35,We Didn't Start the Fire,Billy Joel
+36,I Don't Have the Heart,James Ingram
+37,Downtown Train,Rod Stewart
+38,Rhythm Nation,Janet Jackson
+39,I'll Be Your Everything,Tommy Page
+40,Roam,The B-52's
+41,Everything,Jody Watley
+42,Back to Life (However Do You Want Me),Soul II Soul featuring Caron Wheeler
+43,Here and Now,Luther Vandross
+44,Alright,Janet Jackson
+45,Ice Ice Baby,Vanilla Ice
+46,Blame It on the Rain,Milli Vanilli
+47,Have You Seen Her,MC Hammer
+48,With Every Beat of My Heart,Taylor Dayne
+49,Come Back to Me,Janet Jackson
+50,No More Lies,Michel'le
+51,Praying for Time,George Michael
+52,How Can We Be Lovers,Michael Bolton
+53,Do You Remember?,Phil Collins
+54,Ready or Not,After 7
+55,U Can't Touch This,MC Hammer
+56,I Wish It Would Rain Down,Phil Collins
+57,Just Between You and Me,Lou Gramm
+58,Something Happened on the Way to Heaven,Phil Collins
+59,Black Cat,Janet Jackson
+60,Can't Stop,After 7
+61,Janie's Got a Gun,Aerosmith
+62,The Humpty Dance,Digital Underground
+63,I'll Be Your Shelter,Taylor Dayne
+64,Free Fallin',Tom Petty
+65,Giving You the Benefit,Pebbles
+66,Enjoy the Silence,Depeche Mode
+67,Love Song,Tesla
+68,Price of Love,Bad English
+69,Girls Nite Out,Tyler Collins
+70,King of Wishful Thinking,Go West
+71,What Kind of Man Would I Be?,Chicago
+72,I Remember You,Skid Row
+73,Get Up! (Before the Night Is Over),Technotronic featuring Ya Kid K
+74,Here We Are,Gloria Estefan
+75,Epic,Faith No More
+76,Love Takes Time,Mariah Carey
+77,Just Like Jesse James,Cher
+78,Love Shack,The B-52's
+79,All or Nothing,Milli Vanilli
+80,Romeo,Dino
+81,Everybody Everybody,Black Box
+82,I Go to Extremes,Billy Joel
+83,Whip Appeal,Babyface
+84,Oh Girl,Paul Young
+85,C'mon and Get My Love,D Mob with Cathy Dennis
+86,(It's Just) The Way That You Love Me,Paula Abdul
+87,We Can't Go Wrong,The Cover Girls
+88,When I'm Back on My Feet Again,Michael Bolton
+89,Make You Sweat,Keith Sweat
+90,This One's for the Children,New Kids on the Block
+91,What It Takes,Aerosmith
+92,Forever,Kiss
+93,Jerk Out,The Time
+94,Just a Friend,Biz Markie
+95,Whole Wide World,A'Me Lorain
+96,Without You,Mötley Crüe
+97,Swing the Mood,Jive Bunny and the Mastermixers
+98,Thieves in the Temple,Prince
+99,Mentirosa,Mellow Man Ace
+100,Tic-Tac-Toe,Kyper
+1,Gangsta's Paradise,Coolio featuring L.V.
+2,Waterfalls,TLC
+3,Creep,TLC
+4,Kiss from a Rose,Seal
+5,On Bended Knee,Boyz II Men
+6,Another Night,Real McCoy
+7,Fantasy,Mariah Carey
+8,Take a Bow,Madonna
+9,Don't Take It Personal (Just One of Dem Days),Monica
+10,This Is How We Do It,Montell Jordan
+11,I Know,Dionne Farris
+12,Water Runs Dry,Boyz II Men
+13,Freak Like Me,Adina Howard
+14,Run-Around,Blues Traveler
+15,I Can Love You Like That,All-4-One
+16,Have You Ever Really Loved a Woman?,Bryan Adams
+17,Always,Bon Jovi
+18,"Boombastic / ""In the Summertime""",Shaggy
+19,Total Eclipse of the Heart,Nicki French
+20,You Gotta Be,Des'ree
+21,You Are Not Alone,Michael Jackson
+22,Hold My Hand,Hootie & the Blowfish
+23,One More Chance/Stay with Me,The Notorious B.I.G.
+24,Here Comes the Hotstepper,Ini Kamoze
+25,Candy Rain,Soul for Real
+26,Let Her Cry,Hootie & the Blowfish
+27,I Believe,Blessid Union of Souls
+28,Red Light Special,TLC
+29,Runaway,Janet Jackson
+30,Strong Enough,Sheryl Crow
+31,Colors of the Wind,Vanessa Williams
+32,Someone to Love,Jon B. featuring Babyface
+33,Only Wanna Be with You,Hootie & the Blowfish
+34,If You Love Me,Brownstone
+35,In the House of Stone and Light,Martin Page
+36,I Got 5 on It,Luniz
+37,Baby,Brandy
+38,Run Away,Real McCoy
+39,As I Lay Me Down,Sophie B. Hawkins
+40,He's Mine,MoKenStef
+41,December,Collective Soul
+42,I'll Be There for You/You're All I Need to Get By,Method Man featuring Mary J. Blige
+43,Shy Guy,Diana King
+44,I'm the Only One,Melissa Etheridge
+45,Every Little Thing I Do,Soul for Real
+46,Before I Let You Go,Blackstreet
+47,"Big Poppa / ""Warning""",The Notorious B.I.G.
+48,Sukiyaki,4 P.M.
+49,I Wanna Be Down,Brandy
+50,I'll Make Love to You,Boyz II Men
+51,"Dear Mama / ""Old School""",2Pac
+52,Hold On,Jamie Walters
+53,Keep Their Heads Ringin',Dr. Dre
+54,The Rhythm of the Night,Corona
+55,Roll to Me,Del Amitri
+56,"Scream / ""Childhood""",Michael Jackson and Janet Jackson
+57,Freek'n You,Jodeci
+58,I Wish,Skee-Lo
+59,Believe,Elton John
+60,Carnival,Natalie Merchant
+61,You Don't Know How It Feels,Tom Petty
+62,Back for Good,Take That
+63,Tootsee Roll,69 Boyz
+64,"You Want This / ""70's Love Groove""",Janet Jackson
+65,Tell Me,Groove Theory
+66,Can't You See,Total featuring The Notorious B.I.G.
+67,All I Wanna Do,Sheryl Crow
+68,This Lil' Game We Play,Subway featuring 702
+69,Come and Get Your Love,Real McCoy
+70,This Ain't a Love Song,Bon Jovi
+71,Secret,Madonna
+72,Player's Anthem,Junior M.A.F.I.A. featuring The Notorious B.I.G.
+73,Feel Me Flow,Naughty by Nature
+74,Every Day of the Week,Jade
+75,The Sweetest Days,Vanessa Williams
+76,Short Dick Man,20 Fingers featuring Gillette
+77,Brokenhearted,Brandy
+78,No More I Love You's,Annie Lennox
+79,You Used to Love Me,Faith Evans
+80,Constantly,Immature
+81,Hold Me Thrill Me Kiss Me Kill Me,U2
+82,100% Pure Love,Crystal Waters
+83,Ask of You,Raphael Saadiq
+84,Sugar Hill,AZ
+85,Good,Better Than Ezra
+86,Brown Sugar,D'Angelo
+87,Turn the Beat Around,Gloria Estefan
+88,'Til You Do Me Right,After 7
+89,1st of tha Month,Bone Thugs-n-Harmony
+90,"Like the Way I Do / ""If I Wanted To""",Melissa Etheridge
+91,I Live My Life for You,FireHouse
+92,"Dream About You / ""Funky Melody""",Stevie B
+93,Cotton Eye Joe,Rednex
+94,Thank You,Boyz II Men
+95,I'll Stand by You,The Pretenders
+96,I Miss You,N II U
+97,Give It 2 You,Da Brat
+98,Best Friend,Brandy
+99,Misery,Soul Asylum
+100,Can't Stop Lovin' You,Van Halen
+1,Breathe,Faith Hill
+2,Smooth,Santana featuring Rob Thomas
+3,Maria Maria,Santana featuring The Product G&B
+4,I Wanna Know,Joe
+5,Everything You Want,Vertical Horizon
+6,Say My Name,Destiny's Child
+7,I Knew I Loved You,Savage Garden
+8,Amazed,Lonestar
+9,Bent,Matchbox Twenty
+10,He Wasn't Man Enough,Toni Braxton
+11,Higher,Creed
+12,Try Again,Aaliyah
+13,Jumpin' Jumpin',Destiny's Child
+14,Thong Song,Sisqó
+15,Kryptonite,3 Doors Down
+16,There You Go,Pink
+17,Music,Madonna
+18,Doesn't Really Matter,Janet
+19,What a Girl Wants,Christina Aguilera
+20,Back at One,Brian McKnight
+21,Bye Bye Bye,'N Sync
+22,You Sang to Me,Marc Anthony
+23,I Need to Know,Marc Anthony
+24,Get It On Tonite,Montell Jordan
+25,Incomplete,Sisqó
+26,I Try,Macy Gray
+27,It's Gonna Be Me,'N Sync
+28,That's the Way It Is,Céline Dion
+29,Country Grammar (Hot Shit),Nelly
+30,Bring It All to Me,Blaque
+31,Show Me the Meaning of Being Lonely,Backstreet Boys
+32,Hot Boyz,Missy Elliott featuring Nas Eve and Q-Tip
+33,Back Here,BBMak
+34,It Feels So Good,Sonique
+35,Absolutely (Story of a Girl),Nine Days
+36,With Arms Wide Open,Creed
+37,Be with You,Enrique Iglesias
+38,Come On Over Baby (All I Want Is You),Christina Aguilera
+39,No More,Ruff Endz
+40,All the Small Things,Blink 182
+41,The Way You Love Me,Faith Hill
+42,I Turn to You,Christina Aguilera
+43,Never Let You Go,Third Eye Blind
+44,I Need You,LeAnn Rimes
+45,Thank God I Found You,Mariah Carey featuring Joe and 98 Degrees
+46,Let's Get Married,Jagged Edge
+47,My Love Is Your Love,Whitney Houston
+48,Then the Morning Comes,Smash Mouth
+49,Blue (Da Ba Dee),Eiffel 65
+50,Desert Rose,Sting featuring Cheb Mami
+51,The Real Slim Shady,Eminem
+52,Most Girls,Pink
+53,Wifey,Next
+54,Wonderful,Everclear
+55,Oops!... I Did It Again,Britney Spears
+56,I Wanna Love You Forever,Jessica Simpson
+57,Give Me Just One Night (Una Noche),98 Degrees
+58,Take a Picture,Filter
+59,Otherside,Red Hot Chili Peppers
+60,Big Pimpin',Jay-Z featuring UGK
+61,Purest of Pain (A Puro Dolor),Son by Four
+62,He Can't Love U,Jagged Edge
+63,Separated,Avant
+64,I Wish,Carl Thomas
+65,U Know What's Up,Donell Jones
+66,Faded,soulDecision featuring Thrust
+67,Only God Knows Why,Kid Rock
+68,Shake Ya Ass,Mystikal
+69,Bag Lady,Erykah Badu
+70,Meet Virginia,Train
+71,Party Up (Up in Here),DMX
+72,Case of the Ex (Whatcha Gonna Do),Mýa
+73,Forgot About Dre,Dr. Dre featuring Eminem
+74,That's the Way,Jo Dee Messina
+75,Swear It Again,Westlife
+76,The Next Episode,Dr. Dre featuring Snoop Dogg
+77,From the Bottom of My Broken Heart,Britney Spears
+78,Crash and Burn,Savage Garden
+79,Yes!,Chad Brock
+80,The Best Day,George Strait
+81,Where I Wanna Be,Donell Jones
+82,How Do You Like Me Now?!,Toby Keith
+83,My Best Friend,Tim McGraw
+84,Broadway,Goo Goo Dolls
+85,What'chu Like,Da Brat featuring Tyrese
+86,Don't Think I'm Not,Kandi
+87,I Hope You Dance,Lee Ann Womack with Sons of the Desert
+88,Better Off Alone,Alice Deejay
+89,Dance with Me,Debelah Morgan
+90,What About Now,Lonestar
+91,I Like It,Sammie
+92,24/7,Kevon Edmonds
+93,Girl on TV,LFO
+94,Bounce with Me,Lil' Bow Wow featuring Xscape
+95,Cowboy Take Me Away,Dixie Chicks
+96,I Don't Wanna,Aaliyah
+97,Independent Women Part I,Destiny's Child
+98,Gotta Tell You,Samantha Mumba
+99,Waiting for Tonight,Jennifer Lopez
+100,Shackles (Praise You),Mary Mary
+1,We Belong Together,Mariah Carey
+2,Hollaback Girl,Gwen Stefani
+3,Let Me Love You,Mario
+4,Since U Been Gone,Kelly Clarkson
+5,1 2 Step,Ciara featuring Missy Elliott
+6,Gold Digger,Kanye West featuring Jamie Foxx
+7,Boulevard of Broken Dreams,Green Day
+8,Candy Shop,50 Cent featuring Olivia
+9,Don't Cha,The Pussycat Dolls featuring Busta Rhymes
+10,Behind These Hazel Eyes,Kelly Clarkson
+11,Disco Inferno,50 Cent
+12,You and Me,Lifehouse
+13,Don't Phunk with My Heart,The Black Eyed Peas
+14,Lose Control,Missy Elliott featuring Ciara and Fatman Scoop
+15,Shake It Off,Mariah Carey
+16,Mr. Brightside,The Killers
+17,Just a Lil Bit,50 Cent
+18,Pon de Replay,Rihanna
+19,How We Do,The Game featuring 50 Cent
+20,Beverly Hills,Weezer
+21,Oh,Ciara featuring Ludacris
+22,Lonely No More,Rob Thomas
+23,Drop It Like It's Hot,Snoop Dogg featuring Pharrell
+24,Hate It or Love It,The Game featuring 50 Cent
+25,Lovers & Friends,Lil Jon featuring Usher and Ludacris
+26,Soldier,Destiny's Child featuring T.I. and Lil Wayne
+27,Breakaway,Kelly Clarkson
+28,Switch,Will Smith
+29,Let Me Hold You,Bow Wow featuring Omarion
+30,Like You,Bow Wow featuring Ciara
+31,Rich Girl,Gwen Stefani featuring Eve
+32,My Humps,The Black Eyed Peas
+33,Obsession (No Es Amor),Frankie J featuring Baby Bash
+34,Caught Up,Usher
+35,Listen to Your Heart,DHT featuring Edmee
+36,Scars,Papa Roach
+37,Feel Good Inc.,Gorillaz
+38,Let Me Go,3 Doors Down
+39,Holiday,Green Day
+40,Sugar We're Goin Down,Fall Out Boy
+41,Grind with Me,Pretty Ricky
+42,Run It!,Chris Brown featuring Juelz Santana
+43,Photograph,Nickelback
+44,Lonely,Akon
+45,Collide,Howie Day
+46,Wake Me Up When September Ends,Green Day
+47,Slow Down,Bobby Valentino
+48,Over and Over,Nelly featuring Tim McGraw
+49,Some Cut,Trillville featuring Cutty
+50,Get It Poppin',Fat Joe featuring Nelly
+51,Play,David Banner
+52,Soul Survivor,Young Jeezy featuring Akon
+53,Pimpin' All Over the World,Ludacris featuring Bobby Valentino
+54,My Boo,Usher and Alicia Keys
+55,Sugar (Gimme Some),Trick Daddy featuring Ludacris Lil' Kim and Cee Lo Green
+56,Karma,Alicia Keys
+57,Speed of Sound,Coldplay
+58,I Don't Want to Be,Gavin DeGraw
+59,Mockingbird,Eminem
+60,La Tortura,Shakira featuring Alejandro Sanz
+61,She Will Be Loved,Maroon 5
+62,Baby I'm Back,Baby Bash featuring Akon
+63,Wait (The Whisper Song),Ying Yang Twins
+64,Incomplete,Backstreet Boys
+65,Bring Em Out,T.I.
+66,Cater 2 U,Destiny's Child
+67,1 Thing,Amerie
+68,Best of You,Foo Fighters
+69,It's Like That,Mariah Carey featuring Jermaine Dupri and Fatman Scoop
+70,Goin' Crazy,Natalie
+71,Inside Your Heaven,Carrie Underwood
+72,Because of You,Kelly Clarkson
+73,Truth Is,Fantasia
+74,Your Body,Pretty Ricky
+75,Beautiful Soul,Jesse McCartney
+76,Cool,Gwen Stefani
+77,Get Back,Ludacris
+78,Outta Control,50 Cent featuring Mobb Deep
+79,U Don't Know Me,T.I.
+80,These Words,Natasha Bedingfield
+81,Don't Lie,The Black Eyed Peas
+82,Get Right,Jennifer Lopez
+83,Daughters,John Mayer
+84,As Good as I Once Was,Toby Keith
+85,Girlfight,Brooke Valentine featuring Lil Jon and Big Boi
+86,Lose My Breath,Destiny's Child
+87,Ordinary People,John Legend
+88,We Be Burnin',Sean Paul
+89,Just the Girl,The Click Five
+90,TRUE,Ryan Cabrera
+91,O,Omarion
+92,Back Then,Mike Jones
+93,Numb/Encore,Jay-Z and Linkin Park
+94,Wonderful,Ja Rule featuring R. Kelly and Ashanti
+95,I'm Sprung,T-Pain
+96,Chariot,Gavin DeGraw
+97,U Already Know,112 featuring Foxy Brown
+98,Mississippi Girl,Faith Hill
+99,Number One Spot,Ludacris
+100,Give Me That,Webbie featuring Bun B
+1,Tik Tok,Kesha
+2,Need You Now,Lady Antebellum
+3,Hey Soul Sister,Train
+4,California Gurls,Katy Perry featuring Snoop Dogg
+5,OMG,Usher featuring will.i.am
+6,Airplanes,B.o.B featuring Hayley Williams
+7,Love the Way You Lie,Eminem featuring Rihanna
+8,Bad Romance,Lady Gaga
+9,Dynamite,Taio Cruz
+10,Break Your Heart,Taio Cruz featuring Ludacris
+11,Nothin' on You,B.o.B featuring Bruno Mars
+12,I Like It,Enrique Iglesias featuring Pitbull
+13,BedRock,Young Money featuring Lloyd
+14,In My Head,Jason Derulo
+15,Rude Boy,Rihanna
+16,Telephone,Lady Gaga featuring Beyoncé
+17,Teenage Dream,Katy Perry
+18,Just the Way You Are,Bruno Mars
+19,Cooler Than Me,Mike Posner
+20,Imma Be,The Black Eyed Peas
+21,Empire State of Mind,Jay-Z featuring Alicia Keys
+22,DJ Got Us Fallin' in Love,Usher featuring Pitbull
+23,Billionaire,Travie McCoy featuring Bruno Mars
+24,Not Afraid,Eminem
+25,Replay,Iyaz
+26,Sexy Bitch,David Guetta featuring Akon
+27,Breakeven,The Script
+28,Your Love Is My Drug,Kesha
+29,I Gotta Feeling,The Black Eyed Peas
+30,Fireflies,Owl City
+31,Say Aah,Trey Songz featuring Fabolous
+32,Find Your Love,Drake
+33,Alejandro,Lady Gaga
+34,Ridin' Solo,Jason Derulo
+35,Just a Dream,Nelly
+36,How Low,Ludacris
+37,Like a G6,Far East Movement featuring The Cataracs and Dev
+38,Carry Out,Timbaland featuring Justin Timberlake
+39,Haven't Met You Yet,Michael Bublé
+40,Club Can't Handle Me,Flo Rida featuring David Guetta
+41,Down,Jay Sean featuring Lil Wayne
+42,Bulletproof,La Roux
+43,Whatcha Say,Jason Derulo
+44,Baby,Justin Bieber featuring Ludacris
+45,Whataya Want from Me,Adam Lambert
+46,Mine,Taylor Swift
+47,Only Girl (In the World),Rihanna
+48,Live Like We're Dying,Kris Allen
+49,Hard,Rihanna featuring Jeezy
+50,Young Forever,Jay-Z featuring Mr Hudson
+51,Blah Blah Blah,Kesha featuring 3OH!3
+52,Bottoms Up,Trey Songz featuring Nicki Minaj
+53,Do You Remember,Jay Sean featuring Sean Paul and Lil Jon
+54,All the Right Moves,OneRepublic
+55,According to You,Orianthi
+56,My Chick Bad,Ludacris featuring Nicki Minaj
+57,You Belong with Me,Taylor Swift
+58,Meet Me Halfway,The Black Eyed Peas
+59,Take It Off,Kesha
+60,Over,Drake
+61,Animal,Neon Trees
+62,Misery,Maroon 5
+63,Magic,B.o.B featuring Rivers Cuomo
+64,Paparazzi,Lady Gaga
+65,Tie Me Down,New Boyz featuring Ray J
+66,Your Love,Nicki Minaj
+67,Party in the U.S.A.,Miley Cyrus
+68,Deuces,Chris Brown featuring Tyga and Kevin McCall
+69,3,Britney Spears
+70,Impossible,Shontelle
+71,Forever,Drake featuring Kanye West Lil Wayne and Eminem
+72,Two Is Better Than One,Boys Like Girls featuring Taylor Swift
+73,My First Kiss,3OH!3 featuring Kesha
+74,Already Gone,Kelly Clarkson
+75,Rock That Body,The Black Eyed Peas
+76,Secrets,OneRepublic
+77,Naturally,Selena Gomez & the Scene
+78,Un-Thinkable (I'm Ready),Alicia Keys
+79,All I Do Is Win,DJ Khaled featuring T-Pain Ludacris Snoop Dogg and Rick Ross
+80,I Made It (Cash Money Heroes),Kevin Rudolf featuring Birdman Jay Sean and Lil Wayne
+81,Stuck Like Glue,Sugarland
+82,Hey Daddy (Daddy's Home),Usher featuring Plies
+83,There Goes My Baby,Usher
+84,Today Was a Fairytale,Taylor Swift
+85,Say Something,Timbaland featuring Drake
+86,Sweet Dreams,Beyoncé
+87,Use Somebody,Kings of Leon
+88,Undo It,Carrie Underwood
+89,Eenie Meenie,Sean Kingston and Justin Bieber
+90,Right Above It,Lil Wayne featuring Drake
+91,The House That Built Me,Miranda Lambert
+92,If I Die Young,The Band Perry
+93,The Only Exception,Paramore
+94,American Honey,Lady Antebellum
+95,King of Anything,Sara Bareilles
+96,Life After You,Daughtry
+97,Smile,Uncle Kracker
+98,Teach Me How to Dougie,Cali Swag District
+99,Try Sleeping with a Broken Heart,Alicia Keys
+100,Lover Lover,Jerrod Niemann
+1,Uptown Funk,Mark Ronson featuring Bruno Mars
+2,Thinking Out Loud,Ed Sheeran
+3,See You Again,Wiz Khalifa featuring Charlie Puth
+4,Trap Queen,Fetty Wap
+5,Sugar,Maroon 5
+6,Shut Up and Dance,Walk the Moon
+7,Blank Space,Taylor Swift
+8,Watch Me,Silentó
+9,Earned It,The Weeknd
+10,The Hills,The Weeknd
+11,Cheerleader (Felix Jaehn Remix),OMI
+12,Can't Feel My Face,The Weeknd
+13,Love Me Like You Do,Ellie Goulding
+14,Take Me to Church,Hozier
+15,Bad Blood,Taylor Swift featuring Kendrick Lamar
+16,Lean On,Major Lazer and DJ Snake featuring MØ
+17,Want to Want Me,Jason Derulo
+18,Shake It Off,Taylor Swift
+19,Where Are Ü Now,Skrillex and Diplo (Jack Ü) featuring Justin Bieber
+20,Fight Song,Rachel Platten
+21,679,Fetty Wap featuring Remy Boyz
+22,Lips Are Movin,Meghan Trainor
+23,Worth It,Fifth Harmony featuring Kid Ink
+24,Post to Be,Omarion featuring Chris Brown and Jhené Aiko
+25,Honey I'm Good.,Andy Grammer
+26,I'm Not the Only One,Sam Smith
+27,Good for You,Selena Gomez featuring ASAP Rocky
+28,All About That Bass,Meghan Trainor
+29,Style,Taylor Swift
+30,Hotline Bling,Drake
+31,Hey Mama,David Guetta featuring Nicki Minaj Bebe Rexha and Afrojack
+32,G.D.F.R.,Flo Rida featuring Sage the Gemini and Lookas
+33,What Do You Mean?,Justin Bieber
+34,Photograph,Ed Sheeran
+35,Hello,Adele
+36,Stitches,Shawn Mendes
+37,Talking Body,Tove Lo
+38,Jealous,Nick Jonas
+39,Time of Our Lives,Pitbull and Ne-Yo
+40,Locked Away,R. City featuring Adam Levine
+41,Somebody,Natalie La Rose featuring Jeremih
+42,FourFiveSeconds,Rihanna Kanye West and Paul McCartney
+43,Centuries,Fall Out Boy
+44,My Way,Fetty Wap featuring Monty
+45,Take Your Time,Sam Hunt
+46,Animals,Maroon 5
+47,I Don't Fuck with You,Big Sean featuring E-40
+48,Bitch Better Have My Money,Rihanna
+49,Flex (Ooh Ooh Ooh),Rich Homie Quan
+50,Nasty Freestyle,T-Wayne
+51,Only,Nicki Minaj featuring Drake Lil Wayne and Chris Brown
+52,Elastic Heart,Sia
+53,Cool for the Summer,Demi Lovato
+54,Renegades,X Ambassadors
+55,I Don't Mind,Usher featuring Juicy J
+56,Love Me Harder,Ariana Grande and The Weeknd
+57,Wildest Dreams,Taylor Swift
+58,Stay with Me,Sam Smith
+59,You Know You Like It,DJ Snake and AlunaGeorge
+60,Uma Thurman,Fall Out Boy
+61,11-Jul,Beyoncé
+62,The Heart Wants What It Wants,Selena Gomez
+63,Girl Crush,Little Big Town
+64,Slow Motion,Trey Songz
+65,Drag Me Down,One Direction
+66,Truffle Butter,Nicki Minaj featuring Drake and Lil Wayne
+67,One Last Time,Ariana Grande
+68,Chains,Nick Jonas
+69,All Eyes on You,Meek Mill featuring Chris Brown and Nicki Minaj
+70,No Type,Rae Sremmurd
+71,Riptide,Vance Joy
+72,Classic Man,Jidenna featuring Roman GianArthur
+73,Ex's & Oh's,Elle King
+74,Dear Future Husband,Meghan Trainor
+75,Marvin Gaye,Charlie Puth featuring Meghan Trainor
+76,Like I'm Gonna Lose You,Meghan Trainor featuring John Legend
+77,Habits (Stay High),Tove Lo
+78,The Hanging Tree,James Newton Howard featuring Jennifer Lawrence
+79,CoCo,O.T. Genasis
+80,Bang Bang,Jessie J Ariana Grande and Nicki Minaj
+81,Lay Me Down,Sam Smith
+82,Tuesday,ILoveMakonnen featuring Drake
+83,Hit the Quan,iLoveMemphis
+84,Downtown,Macklemore & Ryan Lewis featuring Eric Nally Melle Mel Kool Moe Dee and Grandmaster Caz
+85,House Party,Sam Hunt
+86,Ayo,Chris Brown and Tyga
+87,Kick the Dust Up,Luke Bryan
+88,Blessings,Big Sean featuring Drake and Kanye West
+89,Budapest,George Ezra
+90,Chandelier,Sia
+91,Heartbeat Song,Kelly Clarkson
+92,Don't,Ed Sheeran
+93,Ghost,Ella Henderson
+94,Here,Alessia Cara
+95,Waves (Robin Schulz Remix),Mr Probz
+96,El Perdón,Nicky Jam and Enrique Iglesias
+97,She Knows,Ne-Yo featuring Juicy J
+98,Night Changes,One Direction
+99,Back to Back,Drake
+100,How Deep Is Your Love,Calvin Harris and Disciples
+1,Blinding Lights,The Weeknd
+2,Circles,Post Malone
+3,The Box,Roddy Ricch
+4,Don't Start Now,Dua Lipa
+5,Rockstar,DaBaby featuring Roddy Ricch
+6,Adore You,Harry Styles
+7,Life Is Good,Future featuring Drake
+8,Memories,Maroon 5
+9,The Bones,Maren Morris
+10,Someone You Loved,Lewis Capaldi
+11,Say So,Doja Cat
+12,I Hope,Gabby Barrett featuring Charlie Puth
+13,Whats Poppin,Jack Harlow featuring DaBaby Tory Lanez and Lil Wayne
+14,Dance Monkey,Tones and I
+15,Savage,Megan Thee Stallion featuring Beyoncé
+16,Roxanne,Arizona Zervas
+17,Intentions,Justin Bieber featuring Quavo
+18,Everything I Wanted,Billie Eilish
+19,Roses (Imanbek Remix),Saint Jhn
+20,Watermelon Sugar,Harry Styles
+21,Before You Go,Lewis Capaldi
+22,Falling,Trevor Daniel
+23,10000 Hours,Dan + Shay and Justin Bieber
+24,WAP,Cardi B featuring Megan Thee Stallion
+25,Ballin',Mustard featuring Roddy Ricch
+26,Hot Girl Bummer,Blackbear
+27,Blueberry Faygo,Lil Mosey
+28,Heartless,The Weeknd
+29,Bop,DaBaby
+30,Lose You to Love Me,Selena Gomez
+31,Good as Hell,Lizzo
+32,Toosie Slide,Drake
+33,Break My Heart,Dua Lipa
+34,Chasin' You,Morgan Wallen
+35,Savage Love (Laxed – Siren Beat),Jawsh 685 and Jason Derulo
+36,No Guidance,Chris Brown featuring Drake
+37,My Oh My,Camila Cabello featuring DaBaby
+38,Dynamite,BTS
+39,Go Crazy,Chris Brown and Young Thug
+40,High Fashion,Roddy Ricch featuring Mustard
+41,Laugh Now Cry Later,Drake featuring Lil Durk
+42,Woah,Lil Baby
+43,Death Bed,Powfu featuring Beabadoobee
+44,Señorita,Shawn Mendes and Camila Cabello
+45,Highest in the Room,Travis Scott
+46,Bad Guy,Billie Eilish
+47,Mood,24kGoldn featuring Iann Dior
+48,Rain on Me,Lady Gaga and Ariana Grande
+49,For the Night,Pop Smoke featuring Lil Baby and DaBaby
+50,Ritmo (Bad Boys for Life),Black Eyed Peas and J Balvin
+51,Heart on Ice,Rod Wave
+52,Nobody but You,Blake Shelton and Gwen Stefani
+53,Trampoline,Shaed
+54,Come & Go,Juice Wrld and Marshmello
+55,Truth Hurts,Lizzo
+56,If the World Was Ending,JP Saxe featuring Julia Michaels
+57,We Paid,Lil Baby and 42 Dugg
+58,Yummy,Justin Bieber
+59,One Man Band,Old Dominion
+60,Got What I Got,Jason Aldean
+61,Sunday Best,Surfaces
+62,Godzilla,Eminem featuring Juice Wrld
+63,Bandit,Juice Wrld and YoungBoy Never Broke Again
+64,Party Girl,StaySolidRocky
+65,Die from a Broken Heart,Maddie & Tae
+66,Popstar,DJ Khaled featuring Drake
+67,All I Want for Christmas Is You,Mariah Carey
+68,One of Them Girls,Lee Brice
+69,Hard to Forget,Sam Hunt
+70,One Margarita,Luke Bryan
+71,Panini,Lil Nas X
+72,Hot,Young Thug featuring Gunna
+73,I Hope You're Happy Now,Carly Pearce and Lee Brice
+74,Emotionally Scarred,Lil Baby
+75,Suicidal,YNW Melly featuring Juice Wrld
+76,The Bigger Picture,Lil Baby
+77,Only Human,Jonas Brothers
+78,The Woo,Pop Smoke featuring 50 Cent and Roddy Ricch
+79,Sum 2 Prove,Lil Baby
+80,Stuck with U,Ariana Grande and Justin Bieber
+81,Mood Swings,Pop Smoke featuring Lil Tjay
+82,You Should Be Sad,Halsey
+83,Dior,Pop Smoke
+84,Supalonely,Benee featuring Gus Dapperton
+85,Even Though I'm Leaving,Luke Combs
+86,The Scotts,The Scotts (Travis Scott and Kid Cudi)
+87,Juicy,Doja Cat and Tyga
+88,Be Like That,Kane Brown Swae Lee and Khalid
+89,Homesick,Kane Brown
+90,Rags2Riches,Rod Wave featuring ATR Son Son
+91,Bluebird,Miranda Lambert
+92,Wishing Well,Juice Wrld
+93,Does to Me,Luke Combs featuring Eric Church
+94,Pussy Fairy (OTW),Jhené Aiko
+95,ILY (I Love You Baby),Surf Mesa featuring Emilee
+96,More Than My Hometown,Morgan Wallen
+97,Lovin' on You,Luke Combs
+98,Said Sum,Moneybagg Yo
+99,Slide,H.E.R. featuring YG
+100,Walk Em Down,NLE Choppa featuring Roddy Ricch
