@@ -27,7 +27,7 @@ token = r.json()['access_token']
 
 playlist_id = ''#your specific playlist ID
 
-'''
+
 # Step 2 - Use Access Token to call playlist endpoint
 
 playlistId = "myPlaylistId"
@@ -39,8 +39,3 @@ headers = {
 res = requests.get(url=playlistUrl, headers=headers)
 
 print(json.dumps(res.json(), indent=2))
-
-
-
-
-'''

@@ -41,7 +41,6 @@ class GetFeatures:
     def __init__(self):
         self.user_id = user_id
         self.token = token
-        #"/Users/shiva/OneDrive/Grad/Spring 2022/UML/Project/BB_All.csv"
         self.csv = "BB_All.csv"
         client_credentials_manager = SpotifyClientCredentials(client_id=client_id,client_secret=client_secret)
         self.sp = spotipy.Spotify(client_credentials_manager=client_credentials_manager)
