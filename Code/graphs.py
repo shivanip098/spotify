@@ -1,6 +1,6 @@
 import matplotlib
 import matplotlib.pyplot as plt
-import seaborn as sn
+import seaborn as sns
 import numpy as np
 import csv
 from sklearn.model_selection import train_test_split
@@ -20,10 +20,6 @@ from mlxtend.frequent_patterns import apriori
 import dataframe_image as dfi
 
 
-
-#This project should be about unsupervised machine 
-#learning and data mining methods and not about data 
-#creation and curation.
 #read in CSV
 df = pd.read_csv('BB_Features.csv')
 #for idx, column in enumerate(df.columns):
@@ -35,7 +31,7 @@ df = pd.read_csv('BB_Features.csv')
 
 
 
-'''
+
 #Train/Test Split? 80:20?
 train = df.sample(frac = 0.8)
  
@@ -43,7 +39,7 @@ train = df.sample(frac = 0.8)
 # rest of the 50% values
 test = df.drop(train.index)
 
-'''
+
 #create updated df with relevant information/cols
 df = df.iloc[:,5:16]
 #print(df.head)
@@ -68,10 +64,12 @@ clus1 = df_scaled[['key', 'energy']].copy()
 clus2 = df_scaled[['energy', 'valence']].copy()
 clus3 = df_scaled[['danceability', 'loudness']].copy()
 
+#K-means clustering --> 4 clusters
 Kmean1 = KMeans(n_clusters=4)
 Kmean1.fit(clus1)
 print(Kmean1.cluster_centers_)
 
+#K-means plot
 clus1.plot.scatter(x='key', y='energy', title= "K Means: Key and Energy")
 plt.scatter(0.08035991, 0.67415407, s=100, c='green', marker='s')
 plt.scatter(0.88065489, 0.75941876, s=100, c='red', marker='s')
@@ -80,9 +78,6 @@ plt.scatter(0.65656566, 0.46320585, s=100, c='yellow', marker='s')
 plt.show()
 
 
-'''Kmean1 = KMeans(n_clusters=4)
-Kmean1.fit(clus1)
-print(Kmean1.cluster_centers_)
 
 clus1.plot.scatter(x='key', y='energy', title= "Scatter plot between variables Key and Energy")
 plt.scatter(0.08035991, 0.67415407, s=100, c='green', marker='s')
@@ -90,8 +85,8 @@ plt.scatter(0.88065489, 0.75941876, s=100, c='red', marker='s')
 plt.scatter(0.49007845, 0.78661868, s=100, c='orange', marker='s')
 plt.scatter(0.65656566, 0.46320585, s=100, c='yellow', marker='s')
 plt.savefig('Scatter_Key_Energy_KMeans', bbox_inches = 'tight')
-'''
-'''
+
+
 #Normal and Truncated SVD - to reduce the dimensionality of data - n is sim of output data
 #https://scikit-learn.org/stable/modules/generated/sklearn.decomposition.TruncatedSVD.html
 #U is a m∗r orthonormal matrix of "left-singular" (eigen)vectors of AAT.
@@ -138,25 +133,23 @@ plt.ylabel('Eigenvalue (Truncated SVD)')
 #I don't like the default legend so I typically make mine like below, e.g.
 #with smaller fonts and a bit transparent so I do not cover up data, and make
 #it moveable by the viewer in case upper-right is a bad place for it 
-plt.savefig('Truncated SVD Scree Plot', bbox_inches = 'tight')'''
-
-'''
+plt.savefig('Truncated SVD Scree Plot', bbox_inches = 'tight')
 
 #Create Correlation Matrix and save
 corrMtrx = df_scaled.corr()
 #print(corrMtrx)
-sn.heatmap(corrMtrx, annot=True, square=True)
+sns.heatmap(corrMtrx, annot=True, square=True)
 #plt.figure(figsize=(12, 8))
 plt.savefig('scaled_Correlation_Matrix', bbox_inches = 'tight')
 
 #Create Pair Plot
 #https://towardsdatascience.com/visualizing-data-with-pair-plots-in-python-f228cf529166
-sn.pairplot(df_scaled)
+sns.pairplot(df_scaled)
 plt.savefig('scaled_Pair_Plot', bbox_inches = 'tight')
 
-'''
 
-'''
+
+
 
 #Repeat all above steps but remove outliers and reduce dimensions:
 
@@ -219,18 +212,16 @@ X_transformed = my_fa.fit_transform(df)
 #Neural Networks - to discover hidden patterns and correlations → cluster/classify
 #https://www.analyticsvidhya.com/blog/2021/06/dimensionality-reduction-using-autoencoders-in-python/
 
-'''
+
 
 #elbow curve method:
-'''
 
-'''
 #Compare K-means and Clustering for 3 different sets of variables:
 #Create variable pair dfs
 #K-means Clustering - to find groups within the data
 #potential plots: violin, elbow, 
 
-'''
+
 #https://towardsdatascience.com/understanding-k-means-clustering-in-machine-learning-6a6e67336aa1
 #after inspecting elbow graph perform k-means:
 Nc = range(1, 20)
@@ -245,14 +236,18 @@ plt.show()
 km = KMeans(n_clusters=2)
 km.fit(df)
 
+'''
+
 #k means clustering --> results in array
 km.cluster_centers_
 
 #how to display cluster centroids (green/red) on plot
-plt.scatter(X[ : , 0], X[ : , 1], s =50, c=’b’)
-plt.scatter(-0.94665068, -0.97138368, s=200, c=’g’, marker=’s’)
-plt.scatter(2.01559419, 2.02597093, s=200, c=’r’, marker=’s’)
+plt.scatter(df[ : , 0], df[ : , 1], s =50, c='b')
+plt.scatter(-0.94665068, -0.97138368, s=200, c='g', marker='s')
+plt.scatter(2.01559419, 2.02597093, s=200, c='r', marker='s')
 plt.show()
+
+'''
 
 #https://www.kaggle.com/code/yugagrawal95/k-means-clustering-using-seaborn-visualization/notebook
 #violin plot:
@@ -267,8 +262,8 @@ sns.boxplot('cylinders','time-to-60',data=df)
 
 #new column that has cluster number for each row
 df['cluster'] = kmeans.labels_
-'''
-'''
+
+
 #Spectral Clustering - an alternative method of finding groups within the data
 spec = SpectralClustering(n_clusters=2, assign_labels='discretize', random_state=0).fit(df)
 
@@ -281,6 +276,6 @@ df_apri = apriori(df_copied, min_support=0.3, use_colnames=True)
 df_apri['length'] = df_apri['itemsets'].apply(lambda x: len(x))
 print(df_apri)
 
-'''
+
 
 
