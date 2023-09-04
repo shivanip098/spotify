@@ -1,5 +1,5 @@
 # Pop Music Trend Analysis
-*This project utilizes the Billboard 100 and Spotify*  
+*This project utilizes the Billboard 100 and Spotify's API*  
 
 ## Introduction
 The purpose of this project was to analyze music trends throughout the decades.
